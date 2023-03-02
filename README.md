@@ -9,5 +9,5 @@
 
 ##### HOW TO RUN THE PROJECT
 1. Download the repository and save it in a folder
-2. Within the linux terminal, input the following command to run the algorithm: ` `
+2. Within the linux terminal, input the following command to run the algorithm: `g++  `
 3. 
