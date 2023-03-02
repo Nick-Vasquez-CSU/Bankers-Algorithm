@@ -2,7 +2,7 @@
 
 ##### WHAT WE LEARNED
 * 
-* Tools: 
+* Tools: C++, Linux Terminal
 
 ##### HOW TO RUN THE PROJECT
 1. 
